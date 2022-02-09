@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Web developer, Software Engineering student, I am self-taught, I like to be constantly learning.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Follow the links to my social networks at the bottom of this page so you can learn more about me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:caauco@hotmail.com)
